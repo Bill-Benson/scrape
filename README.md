@@ -1,2 +1,2 @@
 # scrape
-Python script to scrape the hackernews website and extract relevant news with over a 100 votes
+Python web scraper that pulls top-voted Hacker News articles. Filters by vote threshold and outputs clean results.
